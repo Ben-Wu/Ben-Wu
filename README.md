@@ -1,16 +1,12 @@
-### Hi there 👋
+### Top 10 Emojis (canonical)
 
-<!--
-**Ben-Wu/Ben-Wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+10. 🙃
+9. 🤫
+8. 🙏
+7. 😤
+6. 🐸
+5. 😡
+4. 🤔
+3. 💃
+2. 🌚
+1. 🌝
